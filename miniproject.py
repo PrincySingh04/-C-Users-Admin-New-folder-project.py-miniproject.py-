@@ -12,7 +12,7 @@ data = [
     "Not sure how I feel about this, it's okay I guess.",
     "This movie was fantastic! Highly recommend it.",
     "I hate the customer service. Never coming back.",
-    "The weather is nice today, I’m in a good mood!"
+    "The weather is nice today, but still i am not in good mood''
 ]
 
 # Labels: 1 = Positive, 0 = Negative, 2 = Neutral
